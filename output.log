@@ -1,0 +1,7 @@
+2022/06/18 23:45:38 - INFO -:: logger started. 💭BERTa model, KFold=5 🔴🟡🟢 ['./Patent_xxBERTa.py', 'g2']
+2022/06/18 23:46:07 - INFO -:: *************************
+Runing fold==>1/5 🌱🌱🌱⚡️🍄🍄🍄
+2022/06/18 23:46:07 - INFO -:: TrainSet size==29122, TestSet size==7351
+2022/06/18 23:46:07 - INFO -:: Epoch: 1/4
+2022/06/23 17:45:27 - INFO -:: logger started. 💭BERTa model, KFold=5 🔴🟡🟢 ['./Patent_xxBERTa.py', 'd']
+2022/06/23 17:45:30 - ERROR -:: Failed to detect the name of this notebook, you can set it manually with the WANDB_NOTEBOOK_NAME environment variable to enable code saving.
